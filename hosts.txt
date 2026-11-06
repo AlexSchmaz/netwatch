@@ -1,0 +1,6 @@
+# name, address   (one per line; '#' starts a comment)
+Loopback, 127.0.0.1
+Home router, 192.168.1.1
+Google DNS, 8.8.8.8
+Cloudflare DNS, 1.1.1.1
+Test - unreachable, 10.255.255.1
